@@ -1,0 +1,5 @@
+{
+  "name": "MoodBoard AI",
+  "description": "An emotion-aware digital content organizer that auto-themes based on your current vibe, using AI to provide smart insights and suggestions for your digital space.",
+  "requestFramePermissions": []
+}
